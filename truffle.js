@@ -14,7 +14,7 @@ module.exports = {
       provider: function() {
         return new HDWalletProvider(
           process.env.MNENOMIC,
-          `https://rinkeby.infura.io/v3/${process.env.INFURA_API_KEY}`
+          `https://rinkeby.infura.io/v3/1fda4e6f00554d6abb0a77319097c08c`
         );
       },
       network_id: '4',
