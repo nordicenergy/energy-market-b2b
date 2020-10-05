@@ -2,12 +2,12 @@
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org) 8.11.x
-- [NPM](https://npm.org) 5.6.x
-- [MetaMask](https://metamask.io/) 4.9.x
-- [Python](https://www.python.org) 2.7.x
-- [ganache-cli](https://github.com/trufflesuite/ganache-cli) 6.1.x `npm install -g ganache-cli`
-- [Truffle](https://truffleframework.com/) 4.1.x `npm install -g truffle`
+- [Node.js](https://nodejs.org) 13.1.x
+- [NPM](https://npm.org) 6.1.x
+- [MetaMask](https://metamask.io/) 8.0.x
+- [Python](https://www.python.org) 3.8.x
+- [ganache-cli](https://github.com/trufflesuite/ganache-cli) 2.4.x `npm install -g ganache-cli`
+- [Truffle](https://truffleframework.com/) 5.1.x `npm install -g truffle`
 
 ## Building & Running
 
