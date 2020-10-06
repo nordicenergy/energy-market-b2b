@@ -1,5 +1,7 @@
 # PoC Energy Market B2B
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9f79149a-8314-4d01-a05a-52e72c954cda/deploy-status)](https://app.netlify.com/sites/digital-energy-market/deploys)
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org) 13.1.x
