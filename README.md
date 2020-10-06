@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org) 13.1.x
+- [Node.js](https://nodejs.org) 12.1.x
 - [NPM](https://npm.org) 6.1.x
 - [MetaMask](https://metamask.io/) 8.0.x
 - [Python](https://www.python.org) 3.8.x
